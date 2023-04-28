@@ -1,6 +1,6 @@
 const str = "hello"
 
-// console.log(str)
+console.log(str)
 
 const str2 = "world"
 
