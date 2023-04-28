@@ -1,13 +1,13 @@
-const str = "hello";
+const str = "hello"
 
-console.log(str);
+console.log(str)
 
-const str2 = "world";
+const str2 = "world"
 
-console.log(str + " " + str2);
+console.log(str + " " + str2)
 
 if (str.length > str2.length) {
-  console.log("trueeeeeeee");
+    console.log("trueeeeeeee")
 } else {
-  console.log("false.....");
+    console.log("false.....")
 }
